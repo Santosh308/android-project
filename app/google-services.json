@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "206019568062",
+    "project_id": "sports-magazine-a70d5",
+    "storage_bucket": "sports-magazine-a70d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206019568062:android:f6769e88c7d768a9f4d9ef",
+        "android_client_info": {
+          "package_name": "com.mycompany.pkadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206019568062-bmjpmeaht9sgai5pjr1lc88amuoh27ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0RmRur4ge4nnisJFDbr1N2ICV5orDocU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206019568062-bmjpmeaht9sgai5pjr1lc88amuoh27ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206019568062:android:196b0afb2d7ac510f4d9ef",
+        "android_client_info": {
+          "package_name": "com.mycompany.sportsmagazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206019568062-bmjpmeaht9sgai5pjr1lc88amuoh27ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0RmRur4ge4nnisJFDbr1N2ICV5orDocU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206019568062-bmjpmeaht9sgai5pjr1lc88amuoh27ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
